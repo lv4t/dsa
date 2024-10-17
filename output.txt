@@ -1,0 +1,5 @@
+//đổi dấu các số hạng phía sau nếu s[i] là dấu -
+//tìm vị trí dấu + hoặc - phía sau dấu ngoặc nhưng nằm ngoài dấu ngoặc
+//sau dấu đóng ngoặc là dấu + hoặc - thì tree là dấu + hoặc -
+//nếu sau đóng ngoặc là * hoặc /
+ //tiếp tục tìm dấu + - phía sau nó mà nằm ngoài tất cả dấu ngoặc
